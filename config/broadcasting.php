@@ -32,11 +32,11 @@ return [
 
         'pusher' => [
             'driver' => 'pusher',
-            'key' => env('PUSHER_APP_KEY'),
-            'secret' => env('PUSHER_APP_SECRET'),
-            'app_id' => env('PUSHER_APP_ID'),
+            'key' => env('d8e98c284e4c1830c620'),
+            'secret' => env('ace85a110951072c84d8'),
+            'app_id' => env('1115109'),
             'options' => [
-                'cluster' => env('PUSHER_APP_CLUSTER'),
+                'cluster' => env('ap2'),
                 'useTLS' => true,
             ],
         ],
