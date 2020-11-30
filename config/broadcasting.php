@@ -31,6 +31,7 @@ return [
     'connections' => [
 
         'pusher' => [
+            // pusher
             'driver' => 'pusher',
             'key' => env('d8e98c284e4c1830c620'),
             'secret' => env('ace85a110951072c84d8'),
